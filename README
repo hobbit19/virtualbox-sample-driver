@@ -1,0 +1,9 @@
+virtualbox sample driver
+========================
+
+Sample driver that ships with VirtualBox sources for hacking purposes.
+
+copy include directories from vbox sources
+
+sudo cp -r include/iprt /usr/include/
+sudo cp -r include/VBox /usr/include/
